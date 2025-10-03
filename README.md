@@ -16,3 +16,7 @@
     src="https://raw.githubusercontent.com/animemoeus/animemoeus/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+---
+
+[![An image of @animemoeus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/animemoeus)](https://holopin.io/@animemoeus)
